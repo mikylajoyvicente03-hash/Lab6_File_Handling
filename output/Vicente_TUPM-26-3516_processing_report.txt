@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------
+Last Name: Vicente
+Student ID: TUPM-26-3516
+Seed Digit: 6
+ID Sum: 23
+Verification Value: 167
+Dataset Sample Size: 73
+Valid Records: 1
+Average Global Active Power: 4.536
+JSON File: Vicente_TUPM-26-3516_record.json
+Backup File: Vicente_TUPM-26-3516_record.csv

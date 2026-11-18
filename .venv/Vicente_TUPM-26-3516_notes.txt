@@ -1,0 +1,5 @@
+Student: Vicente
+Student ID: TUPM-26-3516
+Seed: 6
+ID Sum: 23
+Verification Value: 167
